@@ -64,7 +64,7 @@ h1 {
     footer {
         text-align: center;
     }
-    @media (max-width: 1000px) {
+    @media (max-width: 1800px) {
         .form-p{
             float: none;
         }
